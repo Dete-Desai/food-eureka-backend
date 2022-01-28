@@ -1,0 +1,1 @@
+rootProject.name = "com.fes.food-eureka-server"
